@@ -9,7 +9,7 @@ Tech Stack 🛠️
     CSS: Styled for a visually appealing design.
     Bootstrap v.5: Utilized for a responsive and modern layout.
     JavaScript: Added interactivity and dynamic features.
-    Lenis JS: Implemented for smooth and elegant scrolling effects.
+    Lenis & Locomotive JS: Implemented for smooth and elegant scrolling effects.
     Swiper JS: Incorporated for engaging and dynamic sliders.
     GSAP (GreenSock Animation Platform): Powered silky-smooth animations.
 
@@ -19,4 +19,4 @@ Features 🚀
     Intuitive UI/UX: User-friendly design for optimal navigation.
     GSAP Animations: Stunning animations for enhanced visual appeal.
     Swiper JS Sliders: Engaging sliders to showcase content.
-    Lenis JS Scrolling: Effortless and visually pleasing scrolling.
+    Lenis & Locomotive JS Scrolling: Effortless and visually pleasing scrolling.
