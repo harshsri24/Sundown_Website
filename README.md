@@ -5,18 +5,14 @@ Welcome to Sundown Studio's vibrant and innovative website project! This project
 
 Tech Stack 🛠️
 
-    HTML: Structured the foundation of the site.
-    CSS: Styled for a visually appealing design.
-    Bootstrap v.5: Utilized for a responsive and modern layout.
-    JavaScript: Added interactivity and dynamic features.
-    Lenis & Locomotive JS: Implemented for smooth and elegant scrolling effects.
-    Swiper JS: Incorporated for engaging and dynamic sliders.
-    GSAP (GreenSock Animation Platform): Powered silky-smooth animations.
+    💻HTML & CSS:Crafting the visual look feel animations and responsivness.
+    💡JavaScript: Added interactivity and dynamic features.
+    🌐Lenis & Locomotive JS: Implemented for smooth and elegant scrolling effects.
+    🔥Swiper JS: Incorporated for engaging and dynamic sliders.
 
 Features 🚀
 
     Responsive Design: Seamless experience across all devices.
     Intuitive UI/UX: User-friendly design for optimal navigation.
-    GSAP Animations: Stunning animations for enhanced visual appeal.
     Swiper JS Sliders: Engaging sliders to showcase content.
     Lenis & Locomotive JS Scrolling: Effortless and visually pleasing scrolling.
